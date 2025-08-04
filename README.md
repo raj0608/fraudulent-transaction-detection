@@ -117,7 +117,7 @@ The dataset used in this project is the **Credit Card Fraud Detection dataset** 
 
 ## 👨‍💻 Author
 **Rohan Raj**
-- 📧 Email: your.email@example.com
-- 🔗 GitHub: [your-github-profile](https://github.com/your-github-profile)
+- 📧 Email: rohanraj6.rr.rr@gmail.com
+- 🔗 GitHub: https://github.com/raj0608
 
 ---
