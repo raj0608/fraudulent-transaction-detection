@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Large dataset files
+creditcard.csv
+*.csv
+*.tsv
+*.xls
+*.xlsx
+
+# IDE/project settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
