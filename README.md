@@ -24,7 +24,7 @@ Fraudulent Transaction Detection System/
 │   └── creditcard.csv         # Original dataset (Not uploaded due to size)
 │
 ├── notebooks/
-│   └── fraud_detection.ipynb  # Jupyter Notebook with EDA & model building
+│   └── Fraudulent Transaction Detection System.ipynb  # Jupyter Notebook with EDA & model building
 │
 ├── main.py                    # FastAPI app for real-time prediction
 ├── model.pkl                  # Trained ML model
