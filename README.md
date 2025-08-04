@@ -115,13 +115,6 @@ The dataset used in this project is the **Credit Card Fraud Detection dataset** 
 
 ---
 
-## 🚀 Future Improvements
-- Deploy to **AWS Lambda / EC2** or **Docker**
-- Improve feature engineering with domain knowledge
-- Try deep learning models for anomaly detection
-
----
-
 ## 👨‍💻 Author
 **Rohan Raj**
 - 📧 Email: your.email@example.com
